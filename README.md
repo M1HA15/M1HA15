@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Mihai</h1>
-<h3 align="center">A simple guy</h3>
+Greetings 👋! I'm Mihai, a dedicated 17-year-old programmer from Romania. Welcome to my README, providing insights into my programming skills, current projects, and the diverse areas where I'm expanding my knowledge 🌟
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1ha1&label=Profile%20views&color=0e75b6&style=flat" alt="m1ha1" /> </p>
+## 👦🏻 About Me
+- **🎂 Age:** 17 
+- **🌍 Location:** Romania
+- **📚 Education:** High School Student
+- **🌐 Interests:** Web Development, Algorithms, and Open-Source Contributions
 
-- 🔭 I’m currently working on [Network Settings Reset](https://github.com/M1HA15/Network-Settings-Reset)
+## 💻 Programming Skills
+Proficient in Python and actively exploring Batchfile, I am keen on continuous improvement in these domains 💻.
 
-- 🌱 I’m currently learning **Batchfile**
+### 🚀 Programming Languages:
+- Python 🐍
+- Batchfile 📚
+- HTML 🌐
+- C++ 🖥️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## ⛏️ Current Project: Network Settings Reset
+- **Project Link:** [Network Settings Reset](https://github.com/M1HA15/Network-Settings-Reset) 
+- **Description:** **NSR** is a powerful yet user-friendly Windows batch script designed to simplify the process of resetting and maintaining network settings, offering a comprehensive solution for network maintenance on Windows. With the added flexibility, users can also conveniently change their DNS provider to enhance browsing security and speed!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📱 How to Reach Me
+- GitHub: [M1HA15](https://github.com/M1HA15)
+- Instagram: [mihai_fbd](https://www.instagram.com/mihai_fbd/)
+- YouTube: [M1HA1](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
+- Discord: mihaivere
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1ha1&show_icons=true&locale=en" alt="m1ha1" /></p>
+## 🏆 Additional Achievements
+Participated in an IT competition, showcasing skills and knowledge in information technology
+
+## 🎯 Future Goals
+My future goals revolve around enhancing and refining the Network Settings Reset project, ensuring its continuous improvement and relevance
