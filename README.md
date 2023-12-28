@@ -20,7 +20,6 @@ Proficient in Python and actively exploring Batchfile, I am keen on continuous i
 - **Description:** **NSR** is a powerful yet user-friendly Windows batch script designed to simplify the process of resetting and maintaining network settings, offering a comprehensive solution for network maintenance on Windows. With the added flexibility, users can also conveniently change their DNS provider to enhance browsing security and speed!
 
 ## 📱 How to Reach Me
-- GitHub: [M1HA15](https://github.com/M1HA15)
 - Instagram: [mihai_fbd](https://www.instagram.com/mihai_fbd/)
 - YouTube: [M1HA1](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
 - Discord: mihaivere
