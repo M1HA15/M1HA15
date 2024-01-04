@@ -15,17 +15,7 @@ Proficient in Python and actively exploring Batchfile, I am keen on continuous i
 - HTML 🌐
 - C++ 🖥️
 
-## ⛏️ Current Project: Network Settings Reset
-- **Project Link:** [Network Settings Reset](https://github.com/M1HA15/Network-Settings-Reset) 
-- **Description:** **NSR** is a powerful yet user-friendly Windows batch script designed to simplify the process of resetting and maintaining network settings, offering a comprehensive solution for network maintenance on Windows. With the added flexibility, users can also conveniently change their DNS provider to enhance browsing security and speed!
-
 ## 📱 How to Reach Me
 - Instagram: [mihai_fbd](https://www.instagram.com/mihai_fbd/)
 - YouTube: [M1HA1](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
 - Discord: mihaivere
-
-## 🏆 Additional Achievements
-Participated in an IT competition, showcasing skills and knowledge in information technology
-
-## 🎯 Future Goals
-My future goals revolve around enhancing and refining the Network Settings Reset project, ensuring its continuous improvement and relevance
