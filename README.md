@@ -2,10 +2,10 @@
 Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore my README to gain insights into my programming skills, ongoing projects, and the diverse areas where I'm expanding my knowledge.
 
 ## **🐱‍👤 About Me**:
-- *🎂 Age*: **17**
-- *🌍 Location*: **Romania**
-- *📚 Education*: **High School Student**
-- *📰 Interests*: **Web Development**, **Algorithms**, and **Open-Source Contributions**
+- 🎂 Age: **17**
+- 🌍 Location: **Romania**
+- 📚 Education: **High School Student**
+- 📰 Interests: **Web Development**, **Algorithms**, and **Open-Source Contributions**
 
 ## **🚀 Programming Languages**:
 - 🐍 **Python**
@@ -14,10 +14,10 @@ Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore 
 - ⛏️ **C++**
 
 ## **📱 How to Connect**:
-- *[Instagram](https://www.instagram.com/mihai_fbd/)*
-- *[YouTube](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)*
-- *[Discord](https://discord.gg/gWus63qa6V)*
-- *[Steam](https://steamcommunity.com/id/johnsixtynine/)*
+- [Instagram](https://www.instagram.com/mihai_fbd/)
+- [YouTube](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
+- [Discord](https://discord.gg/gWus63qa6V)
+- [Steam](https://steamcommunity.com/id/johnsixtynine/)
 
 ##
 
