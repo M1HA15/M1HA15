@@ -5,13 +5,13 @@ Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore 
 - *🎂 Age*: **17**
 - *🌍 Location*: **Romania**
 - *📚 Education*: **High School Student**
-- *🌐 Interests*: **Web Development**, **Algorithms**, and **Open-Source Contributions**
+- *📰 Interests*: **Web Development**, **Algorithms**, and **Open-Source Contributions**
 
 ## **🚀 Programming Languages**:
 - 🐍 **Python**
 - 📚 **Batchfile**
-- 🌐 **HTML**
-- 🖥️ **C++**
+- 🌍 **HTML**
+- ⛏️ **C++**
 
 ## **📱 How to Connect**:
 - *[Instagram](https://www.instagram.com/mihai_fbd/)*
