@@ -17,7 +17,8 @@ Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore 
 - [Instagram](https://www.instagram.com/mihai_fbd/)
 - [YouTube](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
 - [Discord](https://discord.gg/gWus63qa6V)
-- [Steam](https://steamcommunity.com/id/johnsixtynine/)
+- [Steam - 1](https://steamcommunity.com/id/3rq8)
+- [Steam - 2](https://steamcommunity.com/id/johnsixtynine/)
 
 ##
 
