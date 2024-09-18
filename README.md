@@ -1,5 +1,5 @@
 # **👋 Welcome to My Profile!**
-Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore my README to gain insights into my programming skills, ongoing projects, and the diverse areas where I'm expanding my knowledge.
+Hello, I'm Mihai, a passionate 18 year-old programmer based in Romania. Explore my README to gain insights into my programming skills, ongoing projects, and the diverse areas where I'm expanding my knowledge.
 
 ## **🐱‍👤 About Me**:
 - 🎂 Age: **18**
@@ -14,7 +14,6 @@ Hello, I'm Mihai, a passionate 17-year-old programmer based in Romania. Explore 
 - ⛏️ **C++**
 
 ## **📱 How to Connect**:
-- [Instagram](https://www.instagram.com/mihai_fbd/)
 - [YouTube](https://www.youtube.com/channel/UCaIRAobEkAO0HUYIhDBl--A)
 - [Discord](https://discord.gg/gWus63qa6V)
 - [Steam - 1](https://steamcommunity.com/id/3rq8)
