@@ -1,8 +1,8 @@
 # **👋 Welcome to My Profile!**
-Hello, I'm Mihai, a passionate 18 year-old programmer based in Romania. Explore my README to gain insights into my programming skills, ongoing projects, and the diverse areas where I'm expanding my knowledge.
+Hello, I'm Mihai, a passionate 19 year-old programmer based in Romania. Explore my README to gain insights into my programming skills, ongoing projects, and the diverse areas where I'm expanding my knowledge.
 
 ## **🐱‍👤 About Me**:
-- 🎂 Age: **18**
+- 🎂 Age: **19**
 - 🌍 Location: **Romania**
 - 📚 Education: **High School Student**
 - 📰 Interests: **Web Development**, **Algorithms**, and **Open-Source Contributions**
